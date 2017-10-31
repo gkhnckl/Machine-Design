@@ -10,6 +10,7 @@ bin-release/
 
 # Executables
 *.autosave
+*.aedtresults
 *.swf
 *.air
 *.ipa
