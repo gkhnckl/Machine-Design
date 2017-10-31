@@ -9,6 +9,7 @@ bin-release/
 .settings/
 
 # Executables
+*.autosave
 *.swf
 *.air
 *.ipa
